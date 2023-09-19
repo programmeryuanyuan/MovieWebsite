@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Movie API Demo</title>
+    <style>
+        button {
+            margin: 10px;
+            padding: 10px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+    <button id="nowmovie">Now Playing</button>
+    <button id="recentmovie">Most Popular</button>
+    <button id="toprank">Top Rated</button>
+    <button id="detail">Movie Detail</button>
+    <button id="cast">Cast</button><br>
+    <input type="text" style="height:50px; width: 1200px; font-size: 30px;">
+    <button id="search">Search</button>
+
+    <script>
+
+        // api 文档 ：https://developers.themoviedb.org/3/getting-started/introduction
+        // const url = `https://api.themoviedb.org/3/movie/${movieId}/similar?api_key=`;
+        // const url = `https://api.themoviedb.org/3/movie/now_playing?api_key=${apiKey}&language=en-US&page=1`;
+        // https://api.themoviedb.org/3/movie/now_playing?api_key=<<api_key>>&language=en-US&page=1
+
+
+        const apiKey = '2582b42403a1b46e0d8e848924f5dce3'
+        const movieId = '123'; // 电影 ID
+        const detailurl = `https://api.themoviedb.org/3/movie/${movieId}?api_key=${apiKey}&language=en-US`
+        const nowmovieurl = `https://api.themoviedb.org/3/movie/now_playing?api_key=${apiKey}&language=en-US&page=1`
+        const recentmovieurl = `https://api.themoviedb.org/3/movie/popular?api_key=${apiKey}&language=en-US&page=1`
+        const toprankurl = `https://api.themoviedb.org/3/movie/top_rated?api_key=${apiKey}&language=en-US&page=1`
+        const casturl = `https://api.themoviedb.org/3/movie/${movieId}/credits?api_key=${apiKey}&language=en-US`
+
+        const getFetch = (url) => {
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                })
+        }
+
+        document.getElementById('nowmovie').addEventListener('click', function () {
+            getFetch(nowmovieurl);
+        });
+
+        document.getElementById('recentmovie').addEventListener('click', function () {
+            getFetch(recentmovieurl);
+        });
+
+        document.getElementById('toprank').addEventListener('click', function () {
+            getFetch(toprankurl);
+        });
+
+        document.getElementById('detail').addEventListener('click', function () {
+            getFetch(detailurl);
+        });
+
+        document.getElementById('cast').addEventListener('click', function () {
+            getFetch(casturl);
+        });
+
+        document.getElementById('search').addEventListener('click', function (){
+            const input = document.querySelector('input').value;
+            const searchurl = `https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&language=en-US&query=${input}&page=1&include_adult=false`
+            console.log(searchurl);
+            getFetch(searchurl);
+        });
+
+
+        // fetch(url)
+        //     .then(response => response.json())
+        //     .then(data => {
+        //         console.log(data);
+        //         const movies = data.results; // 电影列表
+        //         const moviesContainer = document.createElement('div'); // 创建一个容器用于放置所有电影信息
+        //         movies.forEach(movie => {
+        //             const movieElement = document.createElement('div'); // 创建一个 div 元素用于放置电影信息
+        //             const movieId = document.createElement('p'); // 创建一个 p 元素用于显示电影id
+        //             movieId.innerText = `Movie ID: ${movie.id}`;
+        //             movieElement.appendChild(movieId);
+        //             const movieImage = document.createElement('img'); // 创建一个 img 元素用于显示电影图片
+        //             movieImage.src = `https://image.tmdb.org/t/p/w500${movie.poster_path}`;
+        //             movieElement.appendChild(movieImage);
+        //             const movieRating = document.createElement('p'); // 创建一个 p 元素用于显示电影评分
+        //             movieRating.innerText = `Rating: ${movie.vote_average}`;
+        //             movieElement.appendChild(movieRating);
+        //             moviesContainer.appendChild(movieElement);
+        //         });
+        //         document.body.appendChild(moviesContainer); // 将所有电影信息添加到页面中
+        //     })
+        //     .catch(error => {
+        //         console.error(error);
+        //         // 在这里处理错误
+        //     });
+    </script>
+</body>
+
+</html>

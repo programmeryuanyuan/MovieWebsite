@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        const apiKey = '2582b42403a1b46e0d8e848924f5dce3'
+        const searchQuery = 'Hello';
+        const url = `https://api.themoviedb.org/3/search/multi?api_key=${apiKey}&language=en-US&page=1&include_adult=false&query=${searchQuery}`;
+
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                console.log(data);
+                data.results.forEach(result => {
+                    const name = result.name || result.title;
+                    const posterUrl = result.poster_path ? `https://image.tmdb.org/t/p/w500${result.poster_path}` : '';
+                    const rating = result.vote_average;
+
+                    const resultContainer = document.createElement('div');
+                    resultContainer.classList.add('result-container');
+
+                    const poster = document.createElement('img');
+                    poster.classList.add('poster');
+                    poster.src = posterUrl;
+
+                    const nameElement = document.createElement('div');
+                    nameElement.classList.add('name');
+                    nameElement.textContent = name;
+
+                    const ratingElement = document.createElement('div');
+                    ratingElement.classList.add('rating');
+                    ratingElement.textContent = `Rating: ${rating}`;
+
+                    resultContainer.appendChild(poster);
+                    resultContainer.appendChild(nameElement);
+                    resultContainer.appendChild(ratingElement);
+
+                    document.body.appendChild(resultContainer);
+                });
+                // 在这里处理返回的搜索结果数据
+            })
+            .catch(error => {
+                console.error(error);
+                // 在这里处理错误
+            });
+
+    </script>
+</body>
+
+</html>
