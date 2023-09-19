@@ -1,0 +1,977 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 24,
+  "reviews": [
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 8,
+      "sharing_url": "https://movie.douban.com/review/13897984/",
+      "title": "It doesn't look like a film made in this era",
+      "url": "https://movie.douban.com/review/13897984/",
+      "abstract": "This is the first film to be seen at VIFF this year and it will be available to watch online after 0:00 on 1 October.\r\nUp early to watch the film. The first forty minutes, with a few rounds of style changes remembered in the notes;\r\nSee American films from the 1920s/2000s made after 2010\r\nFrench films made in the 60s and 70s\r\nHome video of a small American indie film made after 2000\r\nThe film is filmed in a way that blurs the time context, going to a holiday cottage is very much like bringing the time context closer by a few decades, and before the words are out the style is converted from countryside scenery to American home video style. the film is almost half watched, and the heart is howling that the DB rating is overstated, unaware that by the second half, the pace may also be accustomed to, and the style is fixed, the story gradually closes in and begins to getting better.\r\nThis kind of work around a...",
+      "uri": "douban://douban.com/review/13897984",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 6,
+      "user": {
+        "kind": "user",
+        "name": "Paper body",
+        "url": "https://www.douban.com/people/42678515/",
+        "uri": "douban://douban.com/user/42678515",
+        "avatar": "https://img1.doubanio.com/icon/up42678515-18.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "42678515",
+        "uid": "luojiu"
+      },
+      "create_time": "2021-10-02 08:56:08",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "13897984",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": null,
+      "useful_count": 5,
+      "sharing_url": "https://movie.douban.com/review/14157706/",
+      "title": "If you don't get drunk in sobriety, you get sober in ecstasy.",
+      "url": "https://movie.douban.com/review/14157706/",
+      "abstract": "Chaos and confusion, once they reach a certain point, become a kind of either intoxication in sobriety or intoxication in sobriety. Everyone has a critical point in their psyche where they hover on the edge of the abyss, like the painter-prostitute who expects someone to beat her up so that she can prove she is still alive.\r\nWho could not love Fabian? Who could not love Tom Schilling? And then there's Meret Becker, who is simply stunning to the point that even a supporting role can't overshadow her. \r\n“Dear...",
+      "uri": "douban://douban.com/review/14157706",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 1,
+      "user": {
+        "kind": "user",
+        "name": "Run",
+        "url": "https://www.douban.com/people/183945598/",
+        "uri": "douban://douban.com/user/183945598",
+        "avatar": "https://img9.doubanio.com/icon/up183945598-4.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "183945598",
+        "uid": "183945598"
+      },
+      "create_time": "2022-01-22 00:41:14",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14157706",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": null,
+      "useful_count": 2,
+      "sharing_url": "https://movie.douban.com/review/13299765/",
+      "title": "#BerlinFest Interview VOL.1 #Albrecht Schuch: A liberal's love? We see what's possible",
+      "url": "https://movie.douban.com/review/13299765/",
+      "abstract": "This article was first published in the public number: moderator Yating (yytchristina), welcome to follow. \r\n[#BerlinFest Interview VOL.1 #Albrecht Schuch: A liberal's love? We see what's possible]\r\nThe Berlinale 2021 is not like any other. Gone were the tens of thousands of filmmakers and press from around the world fighting for the bear, there was no red carpet and no crowds around the theatre. The Berlinale was split into two phases this year, with the week-long event in March being held online due to the impact of the new pneumonia epidemic. As well as remaining true to its political preference for the themes of its shortlisted films, this year's Berlin is more Diverse, Independent and Daring, which is not unlike Berlin...",
+      "uri": "douban://douban.com/review/13299765",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_5728561",
+          "id": "5728561",
+          "image": {
+            "large": {
+              "url": "https://img2.doubanio.com/view/thing_review/l/public/p5728561.jpg",
+              "width": 600,
+              "height": 1053,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img2.doubanio.com/view/thing_review/l/public/p5728561.jpg",
+              "width": 600,
+              "height": 1053,
+              "size": 0
+            }
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_5728560",
+          "id": "5728560",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p5728560.jpg",
+              "width": 515,
+              "height": 332,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p5728560.jpg",
+              "width": 515,
+              "height": 332,
+              "size": 0
+            }
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_5728563",
+          "id": "5728563",
+          "image": {
+            "large": {
+              "url": "https://img2.doubanio.com/view/thing_review/l/public/p5728563.jpg",
+              "width": 600,
+              "height": 497,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img2.doubanio.com/view/thing_review/l/public/p5728563.jpg",
+              "width": 600,
+              "height": 497,
+              "size": 0
+            }
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 1,
+      "user": {
+        "kind": "user",
+        "name": "Miss Yanyi Yang",
+        "url": "https://www.douban.com/people/147947940/",
+        "uri": "douban://douban.com/user/147947940",
+        "avatar": "https://img2.doubanio.com/icon/up147947940-2.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "147947940",
+        "uid": "147947940"
+      },
+      "create_time": "2021-03-05 20:56:31",
+      "reshares_count": 1,
+      "type": "review",
+      "id": "13299765",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 5,
+        "value": 5
+      },
+      "useful_count": 0,
+      "sharing_url": "https://movie.douban.com/review/14199348/",
+      "title": "Towards Destruction",
+      "url": "https://movie.douban.com/review/14199348/",
+      "abstract": "The film is three hours long and I didn't watch the Spring Festival dinner during the Chinese New Year to finish this. From the beginning to the end of the film there is a very strong atmosphere of sadness.\r\nThe words towards destruction in the first few minutes could describe Fabian's life, the loss of his job, the departure of his girlfriend, the suicide of his friend, including the moral rescue at the end, when he drowns himself and the child climbs up. I hate the ending, I don't deserve it, but even if nothing happens, the Nazis are fighting, Fabian is going to ruin, Berlin is going to ruin, the world is going to ruin.\r\nEven now, in times of peace, I can still vaguely see what happened in Fabienne, as the film says, 'This city built of stone has long since become a madhouse', with all kinds of social events, human blood, even in and...",
+      "uri": "douban://douban.com/review/14199348",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "Wenjiu",
+        "url": "https://www.douban.com/people/54607221/",
+        "uri": "douban://douban.com/user/54607221",
+        "avatar": "https://img9.doubanio.com/icon/up54607221-5.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "54607221",
+        "uid": "54607221"
+      },
+      "create_time": "2022-02-04 04:42:13",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14199348",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 1,
+      "sharing_url": "https://movie.douban.com/review/14195110/",
+      "title": "Brick box",
+      "url": "https://movie.douban.com/review/14195110/",
+      "abstract": "'Love is a hobby to be expressed in the body.'\r\nWhy is he not back home? Why isn't he with his mother? What is he looking for in this city, this crazy brick box? Writing uninformed words to encourage people to smoke more cigarettes. He could have waited for Europe to collapse in his birthplace.\r\n'She said that her long-distance relationship in Berlin-Hamburg was torturing her mentally, and she also said that our sex life was always incompatible, that I wasn't there when she needed me, and that when I was, sex was like breakfast whether she was hungry or not. She told me I shouldn't be angry with her.'\r\n'I call you an idiot, it's not an insult, it's a fact.' He calls himself a poet, not a comedian.\r\nWhat are you looking for?\r\nWhat are you hiding from?\r\nI wasn't hiding, I was in solitude.\r\n'In this stone...",
+      "uri": "douban://douban.com/review/14195110",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "weibaigao",
+        "url": "https://www.douban.com/people/64344228/",
+        "uri": "douban://douban.com/user/64344228",
+        "avatar": "https://img2.doubanio.com/icon/up64344228-1.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "64344228",
+        "uid": "64344228"
+      },
+      "create_time": "2022-02-05 22:43:31",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14195110",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": null,
+      "useful_count": 0,
+      "sharing_url": "https://movie.douban.com/review/14195005/",
+      "title": "Fabienne Afterthoughts",
+      "url": "https://movie.douban.com/review/14195005/",
+      "abstract": "A three hour film, seen in three sittings.\r\nA lot of reluctance, thinking about a lot of things that make you cringe, just thinking about the many lessons that need to be fixed for yourself and the mindset.\r\nBack to the film, I liked every character, I should say because of the kindness of the director. Every character was gentle and there were no annoying people, even the landlady who called the rent was gentle.Fabian is gentle, Labourd is gentle, Mum is gentle, gentle people really make people lock up.\r\nI didn't expect Labourd to commit suicide, the director designed this so that I had a premonition at the end that Fabian would die, the quiet woods, the lovely deer, the mood of running to the one you love, how beautiful, the beauty of the atmosphere does not rip how to pull the audience's heart, maybe a good story, all need to be tragic.\r\nI love Fabienne so much...",
+      "uri": "douban://douban.com/review/14195005",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "xiezhouzhou",
+        "url": "https://www.douban.com/people/202805889/",
+        "uri": "douban://douban.com/user/202805889",
+        "avatar": "https://img2.doubanio.com/icon/up202805889-3.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "202805889",
+        "uid": "202805889"
+      },
+      "create_time": "2022-02-05 22:17:20",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14195005",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": null,
+      "useful_count": 1,
+      "sharing_url": "https://movie.douban.com/review/14194232/",
+      "title": "Fabienne is the idealist of the simulation world",
+      "url": "https://movie.douban.com/review/14194232/",
+      "abstract": "Fabienne gives a bit of insight into one of the questions I've been struggling with most recently, namely whether to be an idealist or not, and whether to choose an idealistic life.\r\nI used to have all sorts of fantasies about the way I would exist. Once bent on the idea that if you work hard enough you will get what you want; then later it was discovered that social class solidification exists, but that there is a certain fluidity between class boundaries; then it became clear that the class divide was more pronounced not only in the demolition of that, but worldwide, and that these could not be compensated for, and that the effort became so forced that even a baby, however hard it struggled, was still in its cot.\r\nFabienne died not being able to swim, and he also drowned in society because of his prickliness and pride. So much for idealists passing away, but people...",
+      "uri": "douban://douban.com/review/14194232",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "Chris.",
+        "url": "https://www.douban.com/people/222697451/",
+        "uri": "douban://douban.com/user/222697451",
+        "avatar": "https://img2.doubanio.com/icon/up222697451-1.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "222697451",
+        "uid": "222697451"
+      },
+      "create_time": "2022-02-05 17:35:16",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14194232",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 3,
+        "value": 3
+      },
+      "useful_count": 0,
+      "sharing_url": "https://movie.douban.com/review/14193000/",
+      "title": "A Different View of Berlin: The Fabulous Adventures of Fabienne",
+      "url": "https://movie.douban.com/review/14193000/",
+      "abstract": "The English title of this film is Fabienne, Going to the dogs.... In 1930s Berlin, Fabian spends his days working in advertising for a company and his nights wandering the city streets when he meets a beautiful actress. But while his girlfriend's career begins to flourish, Fabienne's future is dwindling...\r\nFabienne, rather than telling the story in a flat manner, the director's life is being pushed forward by the rolling wheels of history. As is usual with Graves, the handheld camera and punk rock soundtrack give the film the feel of a historical documentary from the last century, making Fabian's experiences in such a turbulent historical context seem logical and unobtrusive. On the contrary, the viewer is allowed to slowly learn from...",
+      "uri": "douban://douban.com/review/14193000",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_7004060",
+          "id": "7004060",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p7004060.jpg",
+              "width": 600,
+              "height": 257,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p7004060.jpg",
+              "width": 600,
+              "height": 257,
+              "size": 0
+            }
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_7004063",
+          "id": "7004063",
+          "image": {
+            "large": {
+              "url": "https://img2.doubanio.com/view/thing_review/l/public/p7004063.jpg",
+              "width": 600,
+              "height": 531,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img2.doubanio.com/view/thing_review/l/public/p7004063.jpg",
+              "width": 600,
+              "height": 531,
+              "size": 0
+            }
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "Fun-loving passers-by",
+        "url": "https://www.douban.com/people/200349675/",
+        "uri": "douban://douban.com/user/200349675",
+        "avatar": "https://img2.doubanio.com/icon/up200349675-1.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "200349675",
+        "uid": "200349675"
+      },
+      "create_time": "2022-02-01 19:16:44",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14193000",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 3,
+      "sharing_url": "https://movie.douban.com/review/14192858/",
+      "title": "Need to learn how to swim? Even if the sewage is muddy in your eyes (full spoilers, just write to understand the story)",
+      "url": "https://movie.douban.com/review/14192858/",
+      "abstract": "Need to learn how to swim? Even if the sewage is muddy in your eyes (full spoilers, just write to understand the story)\r\nHave you stepped into society with dreams of perhaps becoming a writer, painter, musician, etc., but have to work early mornings and late nights to make ends meet and you're not happy?\r\nAre you in the hustle and bustle of the city, waiting to find some kind of complete, enjoyable, fulfilling, freeing experience of life, or are you not sure exactly what you are looking for?\r\nDo you not want to be muddied by sewage, but have to sink deeper into it?\r\nIn almost prose-like style, Fabian is the story of Fabian, a young man in 1931 with dreams of being a writer who tries to hold on to his decency in a muddy city, but is ultimately doomed because he 'can't swim'...",
+      "uri": "douban://douban.com/review/14192858",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_7020957",
+          "id": "7020957",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p7020957.jpg",
+              "width": 600,
+              "height": 417,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p7020957.jpg",
+              "width": 600,
+              "height": 417,
+              "size": 0
+            }
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_7020958",
+          "id": "7020958",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p7020958.jpg",
+              "width": 600,
+              "height": 412,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p7020958.jpg",
+              "width": 600,
+              "height": 412,
+              "size": 0
+            }
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_7020959",
+          "id": "7020959",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p7020959.jpg",
+              "width": 600,
+              "height": 441,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p7020959.jpg",
+              "width": 600,
+              "height": 441,
+              "size": 0
+            }
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "Funtasee",
+        "url": "https://www.douban.com/people/162020687/",
+        "uri": "douban://douban.com/user/162020687",
+        "avatar": "https://img9.doubanio.com/icon/up162020687-5.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "162020687",
+        "uid": "162020687"
+      },
+      "create_time": "2022-02-04 19:14:17",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14192858",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 3,
+        "value": 3
+      },
+      "useful_count": 0,
+      "sharing_url": "https://movie.douban.com/review/14188866/",
+      "title": "Fabienne",
+      "url": "https://movie.douban.com/review/14188866/",
+      "abstract": "His friend - who later admitted to himself\"on the subject of life and career\"failed - An enterprising man when it comes to communism and sex, while Fabian remains sober and detached. He waited for\"a victory for decency\", without really believing in it. His love for Cornelia was the only thing that made him question his ironic fatalism. She became a ray of hope in his crumbling life. Despite the many parallels with today's maligned world, it is a challenge to bring Erich Kästner's deeply bleak autobiographical novel Fabian - one of the most important novels of the Weimar Republic - out of the gloom of its existence. Dominic Graf navigates this challenge brilliantly. His style is subtly poignant, cold-bloodedly brisk, yet quietly...",
+      "uri": "douban://douban.com/review/14188866",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "。",
+        "url": "https://www.douban.com/people/156117429/",
+        "uri": "douban://douban.com/user/156117429",
+        "avatar": "https://img2.doubanio.com/icon/up156117429-2.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "156117429",
+        "uid": "156117429"
+      },
+      "create_time": "2022-02-03 18:46:13",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14188866",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 3,
+        "value": 3
+      },
+      "useful_count": 2,
+      "sharing_url": "https://movie.douban.com/review/14183804/",
+      "title": "Rolling Wheels 1930 does not need literary youth",
+      "url": "https://movie.douban.com/review/14183804/",
+      "abstract": "Fabienne, a young man of the 1930s, works as a mediocre advertising copywriter in a company by day, and by night he hangs out in the city's street bars, drinking and drinking under the dim lights. The rich life, the friends, the gossip, the vulgar gossip, the love... what more could a young man want in life than this?*･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*\r\nBut the wheels of history do not allow Fabienne to live in comfort and boredom, in peace or in boredom. ╮(￣▽￣\"\")╭ From the day he was sacked from the company he was dropped into the cold reality of life ..... In the meantime, like white noise, he flashes from time to time...",
+      "uri": "douban://douban.com/review/14183804",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "Fun-loving passers-by",
+        "url": "https://www.douban.com/people/200349675/",
+        "uri": "douban://douban.com/user/200349675",
+        "avatar": "https://img2.doubanio.com/icon/up200349675-1.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "200349675",
+        "uid": "200349675"
+      },
+      "create_time": "2022-02-02 08:52:20",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14183804",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 3,
+        "value": 3
+      },
+      "useful_count": 5,
+      "sharing_url": "https://movie.douban.com/review/14181706/",
+      "title": "My friend, is there room for decency in this world?",
+      "url": "https://movie.douban.com/review/14181706/",
+      "abstract": "Personally, I don't really like these more literary films. Many of the bridges are expressed normally in the novel but feel strange in the film, plus the film is 3 hours long and is actually a simple story about the life, love and death of an idealistic young man in the context of history.\r\nSurprisingly, the story itself resonated with me, because what happened to Fabian is a story that is still happening to young people all over the world, but of course Fabian is lucky, he met his wonderful man, his love is too good, his lover is too good, but the better it is, the more tangled and painful Fabian faces, and it's a good thing the guy dies at the end, otherwise Fabian would still be Otherwise Fabian would have been in deeper and deeper until he gave in to fate or was...",
+      "uri": "douban://douban.com/review/14181706",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "Planet Song",
+        "url": "https://www.douban.com/people/182242057/",
+        "uri": "douban://douban.com/user/182242057",
+        "avatar": "https://img9.doubanio.com/icon/up182242057-16.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "182242057",
+        "uid": "fishpoem"
+      },
+      "create_time": "2022-02-01 19:39:18",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14181706",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": null,
+      "useful_count": 2,
+      "sharing_url": "https://movie.douban.com/review/14177157/",
+      "title": "The ideal scent",
+      "url": "https://movie.douban.com/review/14177157/",
+      "abstract": "What was there in Berlin in the early 1930s? Dadaism, performance, audio poetry, rebellion, feminism, mechanics, avant-garde, montage, surrealism, Nazis ...... There will probably never be a time like this again in terms of richness, audacity and fun.\r\nThe hero's best friend, the gent who was left to grow up in his family, loyal to literature and sport, died of his ideals and died in a place of fireworks. The head, pierced by a bullet, leaves a red spray on the wall. The red converges to the size of a skull, like a statement of death. The girls run up the stairs, chaotically pick up the body and set it up, chaotically bandage the head, chaotically embrace and chaotically leave again, without fear or difficulty in accepting death, but with an understanding of it. The hero clarifies with his girlfriend who is an actress...",
+      "uri": "douban://douban.com/review/14177157",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "excelsior",
+        "url": "https://www.douban.com/people/81909605/",
+        "uri": "douban://douban.com/user/81909605",
+        "avatar": "https://img2.doubanio.com/icon/up81909605-31.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "81909605",
+        "uid": "anydude"
+      },
+      "create_time": "2022-01-30 11:55:59",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14177157",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 5,
+        "value": 5
+      },
+      "useful_count": 0,
+      "sharing_url": "https://movie.douban.com/review/14177098/",
+      "title": "One comment",
+      "url": "https://movie.douban.com/review/14177098/",
+      "abstract": "The child is a symbol of Germany and pretending to dive is a choice of Nazi, a claptrap to get the capitalist 'adults' around to save him\r\nFabienne is the Weimar Republic of liberal literary sentimentality and lack of bullshit, with a heart of gold and a mind that can't swim to fight in the current of the times.\r\nThen it became somewhat clear why the gang in the Parliament elected Yuan Shikai instead of Sun Yat-sen back then.\r\nSurrounded by powers, all vested interests fear not house slaves but external packs of wolves, and is there a strong figure to ward off the violence to come?",
+      "uri": "douban://douban.com/review/14177098",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "The Intimate Lu You",
+        "url": "https://www.douban.com/people/2167803/",
+        "uri": "douban://douban.com/user/2167803",
+        "avatar": "https://img9.doubanio.com/icon/up2167803-4.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "2167803",
+        "uid": "2167803"
+      },
+      "create_time": "2022-01-30 11:18:12",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14177098",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 5,
+        "value": 5
+      },
+      "useful_count": 1,
+      "sharing_url": "https://movie.douban.com/review/14176302/",
+      "title": "It's bad luck to have a young man in a normal family",
+      "url": "https://movie.douban.com/review/14176302/",
+      "abstract": "The post-war Weimar Republic, a youth out of step with the times, an absurdity in the age of sound and fury that eventually sank slowly to the bottom of the water.\r\nThe opening scene of the film hit me with:\r\nA wonderful footnote to the times, when tragedy strikes three blocks away and the landlord hopes to create a 'decent' world in a rented house, it seems that the middle class in all times and places has the same endearing virtue: trying to maintain illusions and refusing to face reality when they are punctured, because, of course, it is natural to find something to fall back on when you have some assets.\r\nThe film is about three hours long, so much so that there is more than enough time for the director to fill in any elements he wants to, which as a viewer I tried to break apart: what is related to Fabian,...",
+      "uri": "douban://douban.com/review/14176302",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_6996049",
+          "id": "6996049",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p6996049.jpg",
+              "width": 600,
+              "height": 445,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p6996049.jpg",
+              "width": 600,
+              "height": 445,
+              "size": 0
+            }
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_6996298",
+          "id": "6996298",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p6996298.jpg",
+              "width": 600,
+              "height": 465,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p6996298.jpg",
+              "width": 600,
+              "height": 465,
+              "size": 0
+            }
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_6996297",
+          "id": "6996297",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p6996297.jpg",
+              "width": 600,
+              "height": 438,
+              "size": 0
+            },
+            "raw": null,
+            "is_animated": false,
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p6996297.jpg",
+              "width": 600,
+              "height": 438,
+              "size": 0
+            }
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 2,
+      "user": {
+        "kind": "user",
+        "name": "Kitsch_",
+        "url": "https://www.douban.com/people/252770761/",
+        "uri": "douban://douban.com/user/252770761",
+        "avatar": "https://img2.doubanio.com/icon/up252770761-3.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "252770761",
+        "uid": "252770761"
+      },
+      "create_time": "2022-01-29 21:52:04",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14176302",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 5,
+        "value": 5
+      },
+      "useful_count": 7,
+      "sharing_url": "https://movie.douban.com/review/14172318/",
+      "title": "I'm exhorting you, idealist!",
+      "url": "https://movie.douban.com/review/14172318/",
+      "abstract": "  The film is quite depressing, as Fabian starts off in Berlin with a lot of sex and pleasure. Although he has a PhD in literature, he can only work in a newspaper and is dismissed by his boss on the grounds that he is only fit for literature and not for practical work. His good friend Labourd was doing a post-doctorate in literary theory. I suppose in the 1930s two such people would have been considered high intellectuals. In the grey post-war social climate, most people were unemployed, living from hand to mouth, lascivious and lost in their spiritual worlds because of the hardships of life and the fears of war. Fabian and Labourd are, I think, the only two idealists in the film. Labourd, who is from a wealthy family, cannot bear the betrayal of his fiancée because of his mental cleanliness, loves her but cannot accept his...",
+      "uri": "douban://douban.com/review/14172318",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "Doloris Lu",
+        "url": "https://www.douban.com/people/80468768/",
+        "uri": "douban://douban.com/user/80468768",
+        "avatar": "https://img9.doubanio.com/icon/up80468768-6.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "80468768",
+        "uid": "LLW1113"
+      },
+      "create_time": "2022-01-27 23:06:42",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14172318",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 5,
+        "value": 5
+      },
+      "useful_count": 0,
+      "sharing_url": "https://movie.douban.com/review/14164061/",
+      "title": "The colour of life is grey",
+      "url": "https://movie.douban.com/review/14164061/",
+      "abstract": "The film is a long time coming, and although it is about Germany in 1931, the analogy to the current situation in the midst of the epidemic is not an overstatement. It is a literary and historically-influenced reportage of the time, with reminiscences and imagery (interspersed with montages) that pull the viewer back and forth between reality, history and story, yet still moving along with the plot. The main character, Fabian, is kind, sincere, principled, idealistic, compassionate and empathetic. This is a man of good nature who lives in a grey historical context of war, social decay, living in a flat, chaos, grotesquerie and noise, and meeting all kinds of people. When he meets love, he is unable to fight the reality of financial hardship, and his girlfriend leaves him to pursue her own business...",
+      "uri": "douban://douban.com/review/14164061",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "Waiting for the wind to come",
+        "url": "https://www.douban.com/people/49506483/",
+        "uri": "douban://douban.com/user/49506483",
+        "avatar": "https://img2.doubanio.com/icon/up49506483-52.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "49506483",
+        "uid": "Ricebagwelcome"
+      },
+      "create_time": "2022-01-24 12:31:30",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14164061",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 5,
+        "value": 5
+      },
+      "useful_count": 1,
+      "sharing_url": "https://movie.douban.com/review/14162759/",
+      "title": "1931-2021",
+      "url": "https://movie.douban.com/review/14162759/",
+      "abstract": "\"Die Welt steht Kopf, moralische Normen haben ihre Gültigkeit verloren, politische Extreme befehden einander - und inmitten dieses Durcheinanders steht Fabian, der Moralist, als Beobachter und studiert das Leben: möblierte Zimmer, Arbeitslose, gewisse Damen und dazugehörige Etablissements, Bars, Gigolos, die Liebe und die Verlogenheit der Menschheit.\"\r\nThe Weimar generation is used as an indictment of current society, and 90 years on, humanity and madness remain the same. Fabian disappears into the river like a falling Icarus in a Brueghel painting. Even if in the midst of this...",
+      "uri": "douban://douban.com/review/14162759",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "circularruins",
+        "url": "https://www.douban.com/people/181906843/",
+        "uri": "douban://douban.com/user/181906843",
+        "avatar": "https://img2.doubanio.com/icon/up181906843-13.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "181906843",
+        "uid": "181906843"
+      },
+      "create_time": "2022-01-24 04:42:10",
+      "reshares_count": 1,
+      "type": "review",
+      "id": "14162759",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 5,
+        "value": 5
+      },
+      "useful_count": 1,
+      "sharing_url": "https://movie.douban.com/review/14159610/",
+      "title": "The despair of the literati is the despair of the world",
+      "url": "https://movie.douban.com/review/14159610/",
+      "abstract": "Fabienne, 5 stars. It's been a long time since I've seen a film like this. Desperate to the point of suffocation. A portrait of the multitude of literary PhDs, film actors, painters, pimps, bar performers ...... in Germany two years before the Nazis came to power. A group of people most sensitive to destruction and being destroyed. Unemployed, lost a lover, best friend committed suicide and finally died in a self-inflicted accident on the way to hope. If life is so cruel, what is the point of living? Is it to run towards destruction? What can we do if we can avoid it? In fact, nothing can be done, because this is the type most vulnerable to destruction, which is the hardest wound of the literati, and even more so the sadness of the director. Would the world be better off without the literati? The director is so desperate that you can feel it through the screen...",
+      "uri": "douban://douban.com/review/14159610",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 5,
+      "user": {
+        "kind": "user",
+        "name": "namelessendless",
+        "url": "https://www.douban.com/people/149171420/",
+        "uri": "douban://douban.com/user/149171420",
+        "avatar": "https://img2.doubanio.com/icon/up149171420-1.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "149171420",
+        "uid": "149171420"
+      },
+      "create_time": "2022-01-22 21:58:42",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14159610",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 2,
+      "sharing_url": "https://movie.douban.com/review/14157060/",
+      "title": "I made it all up.",
+      "url": "https://movie.douban.com/review/14157060/",
+      "abstract": "Xiao Zhang is 21 years old. Two children, now running fast cars in Xiangtan. He married his classmate after graduating from secondary school. After two years as a factory worker in Kunshan he found it too hard ......\r\nXiao Wang is 24 years old. A housing agent in Zhengzhou is a second level salesman. Graduated from high school and enrolled in a private college but his family could not afford the tuition fees. Worked and moved around a lot to the provincial capital.\r\nXiao Li is 29 years old. Resident singer in a bar in Chengdu. Graduated with a bachelor's degree in vocal music. Young and ignorant, he was cheated and was eliminated in the second round of a singing show.\r\nLiu is 32 years old. He is the creative director of a famous Shanghai-based company. 211 master's degree student. 4k a month in a shared room recently considered to change.\r\nXiao Zhao 39. Northeasterners have been drifting north for many years and have opened a small bar in Baiziwan, which could not be maintained because of the epidemic. Luckily, he has bought a house in Chengdu and is currently considering transitioning to Shenyang...",
+      "uri": "douban://douban.com/review/14157060",
+      "ad_info": null,
+      "topic": null,
+      "photos": [],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "hmmm.floweray",
+        "url": "https://www.douban.com/people/56922790/",
+        "uri": "douban://douban.com/user/56922790",
+        "avatar": "https://img1.doubanio.com/icon/up56922790-58.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "56922790",
+        "uid": "56922790"
+      },
+      "create_time": "2022-01-21 20:16:29",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "14157060",
+      "subject": {
+        "type": "movie",
+        "title": "Fabienne"
+      }
+    }
+  ]
+}

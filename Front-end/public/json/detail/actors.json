@@ -1,0 +1,189 @@
+{
+  "directors": [
+    {
+      "user": null,
+      "roles": [
+        "Director",
+        "Scriptwriter",
+        "Music",
+        "Actor"
+      ],
+      "latin_name": "Dominik Graf",
+      "author": null,
+      "url": "https://movie.douban.com/celebrity/1050601/",
+      "abstract": "Born in 1952 in Munich, Germany, he studied at the city's Film and Television University (HFF) from 1974 to 1980. During his career as a director and screenwriter, he...",
+      "title": "Dominic Graf (eponymous) Germany, Bavaria, Munich Film and TV actor",
+      "character": "Director",
+      "uri": "douban://douban.com/celebrity/1050601?subject_id=27256364",
+      "cover_url": "https://img9.doubanio.com/view/celebrity/raw/public/p21604.jpg",
+      "avatar": {
+        "large": "https://img9.doubanio.com/view/celebrity/raw/public/p21604.jpg",
+        "normal": "https://img9.doubanio.com/view/celebrity/raw/public/p21604.jpg"
+      },
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1050601/",
+      "type": "celebrity",
+      "id": "1050601",
+      "name": "Dominic Graves"
+    }
+  ],
+  "total": 10,
+  "actors": [
+    {
+      "user": null,
+      "roles": [
+        "Actor",
+        "Producer",
+        "Photographer"
+      ],
+      "latin_name": "Tom Schilling",
+      "author": null,
+      "url": "https://movie.douban.com/celebrity/1005071/",
+      "abstract": "Born in 1982 in Berlin, Germany, Tomsirin began his career in theatre at the age of 12. His first experience in film was at the age of 14, and then Tomsilen...",
+      "title": "Tom Schilling (eponymous) German, Berlin film and television actor",
+      "character": "As Dr. Jakob Fabian",
+      "uri": "douban://douban.com/celebrity/1005071?subject_id=27210762",
+      "cover_url": "https://img1.doubanio.com/view/celebrity/raw/public/p1431515596.37.jpg",
+      "avatar": {
+        "large": "https://img1.doubanio.com/view/celebrity/raw/public/p1431515596.37.jpg",
+        "normal": "https://img1.doubanio.com/view/celebrity/raw/public/p1431515596.37.jpg"
+      },
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1005071/",
+      "type": "celebrity",
+      "id": "1005071",
+      "name": "Tom Schilling"
+    },
+    {
+      "user": null,
+      "roles": [
+        "Actor"
+      ],
+      "latin_name": "Saskia Rosendahl",
+      "author": null,
+      "url": "https://movie.douban.com/celebrity/1323645/",
+      "abstract": "Saskia Rosendauer was born in Halle (Saale), Saxony-Anhalt, to parents from the former German Democratic Republic. Saskia Rosendauer...",
+      "title": "Saskia Rosendauer (of the same name) Germany, Saxony-Anhalt, Halle Film and TV actress",
+      "character": "As Cornelia Battenberg",
+      "uri": "douban://douban.com/celebrity/1323645?subject_id=27502156",
+      "cover_url": "https://img1.doubanio.com/view/celebrity/raw/public/p1623320170.07.jpg",
+      "avatar": {
+        "large": "https://img1.doubanio.com/view/celebrity/raw/public/p1623320170.07.jpg",
+        "normal": "https://img1.doubanio.com/view/celebrity/raw/public/p1623320170.07.jpg"
+      },
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1323645/",
+      "type": "celebrity",
+      "id": "1323645",
+      "name": "Saskia Rosendall"
+    },
+    {
+      "user": null,
+      "roles": [
+        "Actor"
+      ],
+      "latin_name": "Albrecht Schuch",
+      "author": null,
+      "url": "https://movie.douban.com/celebrity/1376138/",
+      "abstract": "Albrecht Schuh is a German actor, born in 1985 in the former East German city of Jena, who entered the historic Mendelssohn Sound in Leipzig in 2006...",
+      "title": "Albrecht Schuh (eponymous) GDR, Jena film and television actor",
+      "character": "As Stephan Labude",
+      "uri": "douban://douban.com/celebrity/1376138?subject_id=27585441",
+      "cover_url": "https://img2.doubanio.com/view/celebrity/raw/public/p1498545114.02.jpg",
+      "avatar": {
+        "large": "https://img2.doubanio.com/view/celebrity/raw/public/p1498545114.02.jpg",
+        "normal": "https://img2.doubanio.com/view/celebrity/raw/public/p1498545114.02.jpg"
+      },
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1376138/",
+      "type": "celebrity",
+      "id": "1376138",
+      "name": "Albrecht Schuh"
+    },
+    {
+      "user": null,
+      "roles": [
+        "Actor",
+        "Music"
+      ],
+      "latin_name": "Meret Becker",
+      "author": null,
+      "url": "https://movie.douban.com/celebrity/1016808/",
+      "abstract": "",
+      "title": "Meredith Becker (eponymous) German, Bremen film and television actress",
+      "character": "As Irene Moll",
+      "uri": "douban://douban.com/celebrity/1016808?subject_id=27222531",
+      "cover_url": "https://img2.doubanio.com/view/celebrity/raw/public/p1405523400.62.jpg",
+      "avatar": {
+        "large": "https://img2.doubanio.com/view/celebrity/raw/public/p1405523400.62.jpg",
+        "normal": "https://img2.doubanio.com/view/celebrity/raw/public/p1405523400.62.jpg"
+      },
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1016808/",
+      "type": "celebrity",
+      "id": "1016808",
+      "name": "Meret Becker"
+    },
+    {
+      "user": null,
+      "roles": [
+        "Actor"
+      ],
+      "latin_name": "Michael Wittenborn",
+      "author": null,
+      "url": "https://movie.douban.com/celebrity/1163874/",
+      "abstract": "",
+      "title": "Michaël Wittenborn (also known as) German film and television actor from Bielefeld",
+      "character": "As Judicial Council Labude",
+      "uri": "douban://douban.com/celebrity/1163874?subject_id=27369766",
+      "cover_url": "https://img2.doubanio.com/view/celebrity/raw/public/p1482118643.61.jpg",
+      "avatar": {
+        "large": "https://img2.doubanio.com/view/celebrity/raw/public/p1482118643.61.jpg",
+        "normal": "https://img2.doubanio.com/view/celebrity/raw/public/p1482118643.61.jpg"
+      },
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1163874/",
+      "type": "celebrity",
+      "id": "1163874",
+      "name": "Michaël Wittenborn"
+    },
+    {
+      "user": null,
+      "roles": [
+        "Actor"
+      ],
+      "latin_name": "Anne Bennent",
+      "author": null,
+      "url": "https://movie.douban.com/celebrity/1061175/",
+      "abstract": "",
+      "title": "Anne Bennett (also known as), Switzerland, Lausanne, film and television actress",
+      "character": "As Baroness Ruth Reiter",
+      "uri": "douban://douban.com/celebrity/1061175?subject_id=27266913",
+      "cover_url": "https://img2.doubanio.com/view/celebrity/raw/public/p1382015256.21.jpg",
+      "avatar": {
+        "large": "https://img2.doubanio.com/view/celebrity/raw/public/p1382015256.21.jpg",
+        "normal": "https://img2.doubanio.com/view/celebrity/raw/public/p1382015256.21.jpg"
+      },
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1061175/",
+      "type": "celebrity",
+      "id": "1061175",
+      "name": "Anne Benante"
+    },
+    {
+      "user": null,
+      "roles": [
+        "Actor"
+      ],
+      "latin_name": "",
+      "author": null,
+      "url": "https://movie.douban.com/celebrity/1079308/",
+      "abstract": "",
+      "title": "Thomas Dehler (eponymous) German film and television actor from Altenburg",
+      "character": "As Detective Inspector Donath",
+      "uri": "douban://douban.com/celebrity/1079308?subject_id=27285066",
+      "cover_url": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png",
+      "avatar": {
+        "large": "https://img2.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+        "normal": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+      },
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1079308/",
+      "type": "celebrity",
+      "id": "1079308",
+      "name": "Thomas Dehler"
+    }
+  ]
+}
